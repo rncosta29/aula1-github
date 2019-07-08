@@ -20,6 +20,8 @@ public class Aluguel {
 			System.out.println("Rent #" + x);
 			System.out.print("Nome: ");
 			String nome = sc.nextLine();
+			
+			
 			System.out.print("Email: ");
 			String email = sc.nextLine();
 			System.out.print("Quarto: ");
